@@ -1,3 +1,6 @@
+#  ⚠️ DO NOT USE! This script is INCOMPATIBLE with the current version of Windows and WILL [destroy your Start menu](https://github.com/TurboLabIt/StartTileBackup/issues/5).
+
+
 # StartTileBackup
 A simple batch script to backup and restore the Start menu tiles. Requires at least Windows 10 Fall Creators Update.
 
