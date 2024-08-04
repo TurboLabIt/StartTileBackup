@@ -6,8 +6,10 @@ echo A simple batch script to backup and restore the Start menu tiles and pinned
 echo.
 echo Official project page: https://github.com/TurboLabIt/StartTileBackup
 echo.
-echo PRESS A KEY TO **RESTORE**!
+rem echo PRESS A KEY TO **RESTORE**!
+echo ⚠️ DO NOT USE! This script is INCOMPATIBLE with the current version of Windows
 pause
+exit
 
 
 net session >nul 2>&1
